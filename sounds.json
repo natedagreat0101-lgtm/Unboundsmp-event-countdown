@@ -1,0 +1,10 @@
+{
+  "spooky_loop": {
+    "sounds": [
+      {
+        "name": "halloweencountdown:spooky_loop",
+        "stream": true
+      }
+    ]
+  }
+}

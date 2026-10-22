@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "halloweencountdown",
+  "version": "${version}",
+  "name": "Halloween Countdown",
+  "description": "A Halloween event countdown and looping original spooky ambience soundtrack.",
+  "authors": ["Nate"],
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.nate.halloweencountdown.HalloweenCountdownClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
